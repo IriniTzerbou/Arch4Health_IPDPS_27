@@ -41,11 +41,11 @@
 ![Arch4Health Logo](arch4health-logo.png){: width="700px" }
 
 <h3 style="color: #7F7FFF;font-style: italic;">
-  A half-day workshop exploring the key computational challenges in health-related applications and the vital role of computer architecture in overcoming them to advance healthcare
+  A full-day workshop exploring the key computational challenges in health-related applications and the vital role of computer architecture in overcoming them to advance healthcare
 </h3>
 
-**1st November 2026, Athens, Greece**  
-**In conjunction with [the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)](https://www.microarch.org/micro59/index.php)**
+**1st June 2027, Seattle, WA, USA**  
+**In conjunction with [41st IEEE International Parallel & Distributed Processing Symposium (IPDPS 2027)](https://www.ipdps.org/)**
 
 ## Workshop Description {#description}
 
@@ -60,7 +60,7 @@
 
 ## Call for Presentations {#call-for-presentations}
 
-This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy_IaEbtvIkF-QesWAZzZ4AcHL3KVgaHmNR3xFFx5_A7aFkA/viewform?usp=dialog">this Google Form</a>**. You may either paste the abstract directly into the form or upload a two-page PDF prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations.
+This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="">this Google Form</a>**. You may either paste the abstract directly into the form or upload a two-page PDF prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations.
 
 We invite abstract submissions related to (but not limited to) the following topics:
 
@@ -89,9 +89,9 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Key Dates {#key-dates}
 
-- **Extended Abstract Submission Deadline:** 4 October 2026
-- **Notification:** 9 October 2026
-- **Workshop Date:** 1 November 2026
+- **Extended Abstract Submission Deadline:** 25 April 2027
+- **Notification:** 1 May 2027
+- **Workshop Date:** 1 June 2027
 
 ## Organizers {#organizers}
 
