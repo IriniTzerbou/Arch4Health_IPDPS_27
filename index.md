@@ -89,8 +89,8 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Key Dates {#key-dates}
 
-- **Extended Abstract Submission Deadline:** 25 April 2027
-- **Notification:** 1 May 2027
+- **Extended Abstract Submission Deadline:** 20 February 2027
+- **Notification:** 28 February 2027
 - **Workshop Date:** 1 (or 2) June 2027
 
 ## Organizers {#organizers}
