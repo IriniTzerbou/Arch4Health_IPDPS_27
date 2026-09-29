@@ -1,2 +1,2 @@
-# arch4health-micro2026
-Arch4Health Workshop @ MICRO 2026
+# arch4health-ipdps_27
+Arch4Health Workshop @ IPDPS_27
