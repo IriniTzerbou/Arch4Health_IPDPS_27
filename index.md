@@ -230,8 +230,8 @@ We invite abstract submissions related to (but not limited to) the following top
 ## Previous Iteration {#previous-iteration}
 
 <p>
-You can find information regarding the previous iterations of the workshop (held in conjunction with MICRO 2025 in Seoul, HPCA 2026 in Sydney and ICS 2026 in Belfast) 
-<strong><a href="https://events.safari.ethz.ch/micro25-arch4health/" target="_blank">here</a></strong>, <strong><a href="https://events.safari.ethz.ch/hpca26-arch4health/" target="_blank">here</a></strong> and <strong><a href="https://events.safari.ethz.ch/ics26-arch4health/" target="_blank">here</a></strong>.
+You can find information regarding the previous iterations of the workshop (held in conjunction with MICRO 2025 in Seoul, HPCA 2026 in Sydney, ICS 2026 in Belfast and MICRO 2026 in Athens) 
+<strong><a href="https://events.safari.ethz.ch/micro25-arch4health/" target="_blank">here</a></strong>, <strong><a href="https://events.safari.ethz.ch/hpca26-arch4health/" target="_blank">here</a></strong>, <strong><a href="https://events.safari.ethz.ch/ics26-arch4health/" target="_blank">here</a></strong> and <strong><a href="https://events.safari.ethz.ch/micro26-arch4health/" target="_blank">here</a></strong>.
 </p>
 
 
